@@ -1,4 +1,4 @@
-﻿#preloader {
+#preloader {
     position: fixed;
     top: 0;
     right: 0;
@@ -657,7 +657,7 @@ a:hover,a:active,a:focus {
 }
 
 .menu_area-light .navbar-nav li.current>a,.menu_area-light .navbar-nav li.active>a {
-    color: rgba(255,255,255,1)
+    color: #fb9a27
 }
 
 .menu_area-light .navbar>ul>li.current>a:after {
@@ -2646,8 +2646,7 @@ a:hover,a:active,a:focus {
 
 @media screen and (max-width: 1199px) {
     .card-style10 .card-body {
-        margin:-30px 20px 0 0;
-        padding: 35px 25px 25px
+        padding: 20px 25px 20px
     }
 
     .card-style10 .card-body .category span {
