@@ -657,7 +657,7 @@ a:hover,a:active,a:focus {
 }
 
 .menu_area-light .navbar-nav li.current>a,.menu_area-light .navbar-nav li.active>a {
-    color: rgba(255,255,255,1)
+    color: #fb9a27
 }
 
 .menu_area-light .navbar>ul>li.current>a:after {
